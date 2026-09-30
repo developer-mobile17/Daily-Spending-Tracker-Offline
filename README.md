@@ -15,3 +15,10 @@ The hardest part wasn't the UI. Banks send SMS from name-style sender IDs, and i
 I build iOS apps like this for [startups / small businesses / fintech teams]. If you have an idea, or want an app that automates something tedious, message me.
 
 #iOSDevelopment #SwiftUI #Swift #AppDevelopment #Fintech #BuildInPublic
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-09-30 at 20 50 49" src="https://github.com/user-attachments/assets/8b96a98d-d21b-4728-8122-17dfa858c3da" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-09-30 at 20 50 38" src="https://github.com/user-attachments/assets/d61cc4c3-000e-4c9e-b366-6017dbc0f79c" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-09-30 at 20 50 33" src="https://github.com/user-attachments/assets/5e492e21-7e58-4f88-908c-3f17ad75a911" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-09-30 at 20 50 04" src="https://github.com/user-attachments/assets/a9f57490-8fc7-49d1-9227-e32fd5f3d34d" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-09-30 at 20 49 58" src="https://github.com/user-attachments/assets/e7577e0a-e93b-4c70-82ab-191809c09dd6" />
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-09-30 at 20 49 49" src="https://github.com/user-attachments/assets/4a683906-493e-4738-abe6-9e28c0850ad3" />
